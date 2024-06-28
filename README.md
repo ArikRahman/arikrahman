@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Student at Texas A&M University
-🦀 Ask me about Rust!
+🦀 Ask me about Flutter!
