@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-College of Engineering @ Texas A&M University, Class of '25
-🦀 Ask me about Nix!
-📫 How to reach me: arik@tamu.edu
+- College of Engineering @ Texas A&M University, Class of '25
+- 🦀 Ask me about Nix!
+- 📫 How to reach me: arik@tamu.edu
