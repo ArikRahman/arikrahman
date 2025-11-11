@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Student at Texas A&M University
-🦀 Ask me about Flutter!
+College of Engineering @ Texas A&M University, Class of '25
+🦀 Ask me about Nix!
+📫 How to reach me: arik@tamu.edu
