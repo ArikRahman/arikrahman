@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - College of Engineering @ Texas A&M University, Class of '25
-- 🦀 Ask me about Nix!
+- ❄️ Ask me about Nix!
 - 📫 How to reach me: arik@tamu.edu
