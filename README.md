@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - College of Engineering @ Texas A&M University, Class of '25
 - ❄️ Ask me about Nix!
-- 📫 How to reach me: arik@tamu.edu
+- 📫 Please feel free to reach me at arik@tamu.edu
